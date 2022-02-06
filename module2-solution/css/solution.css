@@ -20,7 +20,6 @@ h2{
 
 
 section{
-    background-color: #a9a9a9;
     border: 1px solid black;
     width: 90%;
     margin-right: auto;
@@ -31,6 +30,18 @@ p{
     font-family: Verdana, Arial, Helvetica, sans-serif;
     padding: 2%;
     font-size: 1em;
+}
+
+#sec1{
+    background-color: #a9a9a9;
+}
+
+#sec2{
+    background-color: #a9a9a9;
+}
+
+#sec3{
+    background-color: #a9a9a9;
 }
 
 #sec1 > h2{
