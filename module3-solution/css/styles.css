@@ -1,0 +1,29 @@
+.container{
+    margin-left: 5px;
+   
+}
+
+.container-fluid{
+    padding-left: 10px;
+   
+}
+
+.navbar-brand {
+    padding-top: 20px;
+    text-align: left;
+    height: 10px;
+    padding-left: 0;
+
+  }
+
+#collapsable-nav{
+    width: 100%;
+}
+#nav-list{
+    background-color: #ffe4c4;
+}
+  
+section.container-fluid{
+    background-color: #d3d3d3;
+}
+
